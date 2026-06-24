@@ -1,0 +1,17 @@
+{
+  "name": "FIFA WM 2026",
+  "short_name": "WM 2026",
+  "description": "FIFA Weltmeisterschaft 2026 – Live Tabellen & K.o.-Runde",
+  "start_url": "./wm2026.html",
+  "display": "standalone",
+  "background_color": "#040d1a",
+  "theme_color": "#040d1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%23040d1a'/><text y='130' x='96' text-anchor='middle' font-size='110'>⚽</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
